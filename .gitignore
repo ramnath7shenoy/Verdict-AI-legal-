@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Env
+.env
+!.env.example
+
+# Streamlit
+.streamlit/
+
+# Data
+data/
+uploads/
+*.db
+*.sqlite3
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.~lock.*
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Caches
+.mypy_cache/
+.pytest_cache/
