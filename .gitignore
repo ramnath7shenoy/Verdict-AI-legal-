@@ -43,3 +43,12 @@ build/
 # Caches
 .mypy_cache/
 .pytest_cache/
+# Virtual Environment
+.venv/
+
+# Testing
+.coverage
+.pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
